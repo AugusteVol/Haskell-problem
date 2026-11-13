@@ -10,4 +10,4 @@ https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&pag
 # How to run
 1. Open Program.hs
 2. Open terminal
-3. Type "ghcrun Program.hs"
+3. Type "runghc Program.hs"
